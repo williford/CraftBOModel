@@ -2,6 +2,14 @@ classdef CraftBOModel < handle
    % CraftBOModel A partial re-implementation of the Craft et al
    % border-ownership model, as described in:
    % Craft,Schütze, Niebur and von der Heydt (2007). J Neurophysiology.
+   %
+   % Author: Jonathan R. Williford
+   % 
+   % This program is free software: you can redistribute it and/or modify
+   % it under the terms of the GNU Affero General Public License as
+   % published by the Free Software Foundation, either version 3 of the
+   % License, or (at your option) any later version.
+
    properties
       tau_B = 10 % ms
       tau_G = 10 % ms
