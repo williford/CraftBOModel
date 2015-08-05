@@ -8,7 +8,7 @@ A neural model of figure-ground organization.
 *Journal of Neurophysiology* 97 (6): 4310-4326.
 
 Sudarshan Ramenahalli<sup>[1](#sudarshan)</sup> was helpful in the implementation of this model.
-He also re-implemented the model described in the paper.
+He independently re-implemented the model described in the paper, which includes T-Junctions.
 
 This version does not implement T-juctions.
 The gropuing cell layer is not implemented efficiently.
